@@ -56,15 +56,15 @@ random_prices = [40, 50, 60, 70, 100, 122, 106, 50, 30, 50]
 # CSS Styling for spacing and alignment
 st.markdown("""
     <style>
-        .product-card {
-            background-color: #f9f9f9;
-            border-radius: 10px;
-            padding: 15px;
-            margin: 10px;
-            text-align: center;
-            height: 100%;
-            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
-        }
+        # .product-card {
+        #     background-color: #f9f9f9;
+        #     border-radius: 10px;
+        #     padding: 15px;
+        #     margin: 10px;
+        #     text-align: center;
+        #     height: 100%;
+        #     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+        # }
         .product-container {
             display: flex;
             flex-wrap: wrap;
