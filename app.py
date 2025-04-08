@@ -143,6 +143,7 @@ if st.button("Get Recommendations ➡️"):
                         </div>
                     </div>
                 """, unsafe_allow_html=True)
+                print("hello");
 
                         
         st.markdown('</div>', unsafe_allow_html=True)
